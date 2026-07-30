@@ -11,7 +11,7 @@ export const config = {
     },
     about: {
         title: "About Me",
-        description: "Software Engineering graduate passionate about building scalable web applications. Experienced with Java Spring Boot, ASP.NET Core, C#, Laravel, React.js, Angular, SQL, Docker, and Azure, I enjoy solving technical challenges, writing clean code, and continuously learning new technologies."
+        description: "I’m a software engineer and full-stack developer passionate about building reliable, scalable, and user-friendly digital solutions. I have hands-on experience developing ERP, SaaS, POS, and e-learning platforms using technologies such as Spring Boot, Laravel, React, .NET, REST APIs, Docker, and SQL/NoSQL databases. I enjoy solving complex problems, learning new technologies, and transforming ideas into applications that deliver real value."
     },
     experiences: [
         {
