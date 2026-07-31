@@ -48,7 +48,7 @@ export const config = {
             period: "July–August 2024",
             highlights: [
                 "Enhanced a point-of-sale application, focusing on back-end development using Laravel, interactivity with Livewire, and authentication with Jetstream.",
-                "Implemented Spatie for role management, generated reports using Laravel Excel, and improved UI with Bootstrap.",
+                "Implemented role-based access control, developed reporting features, and enhanced the user interface while improving overall application performance.",
                 "Collaborated through GitHub, gaining practical experience in full-stack development, security, and teamwork."
             ]
         }
