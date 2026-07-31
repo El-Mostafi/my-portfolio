@@ -47,7 +47,7 @@ export const config = {
             company: "MedYouIn, Morocco",
             period: "July–August 2024",
             highlights: [
-                "Enhanced a point-of-sale application, focusing on back-end development using Laravel, interactivity with Livewire, and authentication with Jetstream.",
+                "Enhanced a point-of-sale application by developing back-end features, improving application interactivity, and implementing secure user authentication.",
                 "Implemented role-based access control, developed reporting features, and enhanced the user interface while improving overall application performance.",
                 "Collaborated through GitHub, gaining practical experience in full-stack development, security, and teamwork."
             ]
