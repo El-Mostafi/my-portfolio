@@ -2,12 +2,15 @@ export const config = {
     developer: {
         name: "Mohamed",
         fullName: "Mohamed El Mostafi",
-        title: "Software Engineering | Full-Stack Developer",
+        title: "Software Engineer | Full-Stack Developer",
         description: "Full-Stack Developer building reliable web applications and practical software solutions with Laravel, React, ASP.NET Core, Java/Spring Boot, and modern development practices."
     },
     social: {
         email: "mohamed.elmostafi0@gmail.com",
-        location: "Meknes, Morocco"
+        location: "Meknes, Morocco",
+        github: "https://github.com/El-Mostafi",
+        linkedin: "https://www.linkedin.com/in/mohamed-el-mostafi-072683241",
+        resume: "/mohamed_el_mostafi.pdf"
     },
     about: {
         title: "About Me",
@@ -113,19 +116,11 @@ export const config = {
         phone: "+212 695 722 547"
     },
     skills: {
-        develop: {
-            title: "SOFTWARE ENGINEERING",
-            description: "Backend systems, APIs & scalable applications",
-            details: "Building reliable full-stack applications and business solutions with Java, Spring Boot, Laravel, .NET, databases, and modern engineering practices.",
-            tools: ["Java", "Spring Boot", "PHP", "Laravel", "C#", ".NET", "Express.js", "Microservices", "Blazor", "Livewire"]
-        },
-        design: {
-            title: "FULL-STACK & DEVOPS",
-            description: "Modern interfaces, delivery & collaboration",
-            details: "Creating responsive web experiences and dependable delivery workflows with React.js, TypeScript, Docker, CI/CD, Azure, Git, and cloud-ready tools.",
-            tools: ["React.js", "TypeScript", "Tailwind CSS", "Docker", "CI/CD", "Azure", "Git", "GitHub", "GitLab", "Nginx"]
+        profile: {
+            title: "END-TO-END SOFTWARE DEVELOPMENT",
+            description: "From business requirements to reliable production systems",
+            details: "I transform functional requirements into maintainable software by modelling data, designing APIs, building responsive interfaces, integrating real-time features, writing tests and automating deployment. I focus on clean architecture, practical solutions and applications that are easy to evolve.",
+            capabilities: ["API Design", "Backend Development", "Frontend Development", "Database Design", "Real-Time Systems", "Testing", "CI/CD", "Deployment Automation"]
         }
     }
 };
-
-
